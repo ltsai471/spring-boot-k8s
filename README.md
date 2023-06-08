@@ -1,5 +1,4 @@
-# Project Title
-spring-boot-k8s
+# spring-boot-k8s
 
 ## Demo link:
 Access my site at [google.com](https://google.com)
